@@ -1,11 +1,14 @@
 ### Hi there 👋, bem vindo ao meu perfil! 
 
-Meu nome é Murylo César, estou cursando o 7º período do curso sistema de informação na PUC minas. 
+Bora lá começar...
 
-Após mudar para Uberlândia, trabalhei como suporte técnico durante 1 ano e 7 meses. Em 2019 tive a oportunidade de trabalhar como Analista de sistema é sou muito grato, pois com essa a oportunidade hoje eu trabalho com as tecnologias PL/SQL (Oracle), Visual Basic e Java.
+Em 2016 minha carreira profissional na área de TI começou, junto com um colega, desenvolvi meu primeiro sistema chamado Weels_Sys para conclusão do curso técnico em informatica ( sistema de controle vendas ), projeto utilizando java com banco de dados firebird.
 
+Desde então meu interesse pela programação está só aumentando 🧑‍🚀
 
-👨🏻‍💻  Recentemente conheci as tecnologias ReactNative, ReactJs and NodeJs que hoje é meu foco principal
+Atualmente, trabalho como Analista de Sistemas Pleno na empresa Everis em que sou muito grato por todas as oportunidades que me proporcionaram até o presente momento, pois com isso tive a oportunidade de trabalhar com as tecnologias PL/SQL (Oracle), Visual Basic e Java.
+
+👨🏻‍💻 Recentemente conheci as tecnologias ReactNative, ReactJs and NodeJs que hoje é meu foco principal.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murylocesar/) [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murylocesar2014@gmail.com)](mailto:murylocesar2014@gmail.com) [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/murylo.cesar/) 
