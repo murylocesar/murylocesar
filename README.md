@@ -1,9 +1,8 @@
 ### Hi there 👋, bem vindo ao meu perfil! 
 
-
 Meu nome é Murylo César, estou cursando o 7º período do curso sistema de informação na PUC minas. 
 
-Após mudar para Uberlandia, trabalhei como susporte técnico durante 1 ano e 7 meses. Em 2019 tive a oportunidade de trabalhar como Analista de sistema é sou muito grato, pois com essa a oportunidade hoje eu trabalho com as tecnologias PL/SQL (Oracle), Visual Basic e Java.
+Após mudar para Uberlândia, trabalhei como suporte técnico durante 1 ano e 7 meses. Em 2019 tive a oportunidade de trabalhar como Analista de sistema é sou muito grato, pois com essa a oportunidade hoje eu trabalho com as tecnologias PL/SQL (Oracle), Visual Basic e Java.
 
 
 👨🏻‍💻  Recentemente conheci as tecnologias ReactNative, ReactJs and NodeJs que hoje é meu foco principal
