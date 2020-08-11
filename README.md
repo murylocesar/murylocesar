@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there 👋, bem vindo ao meu perfil! 
 
-
-Hi there 👋, bem vindo ao meu perfil! 
 
 Meu nome é Murylo César, estou cursando o 7º período do curso sistema de informação na PUC minas. 
 
