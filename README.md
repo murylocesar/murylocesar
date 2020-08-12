@@ -10,12 +10,10 @@ Atualmente, trabalho como Analista de Sistemas Pleno na empresa Everis em que so
 
 👨🏻‍💻 Recentemente conheci as tecnologias ReactNative, ReactJs and NodeJs que hoje é meu foco principal.
 
+:octocat: Follow me!
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murylocesar/) [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murylocesar2014@gmail.com)](mailto:murylocesar2014@gmail.com) [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/murylo.cesar/) 
 
-
-
-:octocat: Follow me!
 
 
 <!--
