@@ -2,7 +2,7 @@
 
 Bora lá começar...
 
-Em 2016 minha carreira profissional na área de TI começou, junto com um colega, desenvolvi meu primeiro sistema chamado Weels_Sys para conclusão do curso técnico em informatica ( sistema de controle vendas ), projeto utilizando java com banco de dados firebird.
+Em 2016 minha carreira profissional na área de TI começou, junto com um colega, desenvolvi meu primeiro sistema chamado Weels_Sys para conclusão do curso técnico em informatica ( sistema de controle vendas ), no projeto utilizando java com banco de dados firebird.
 
 Desde então meu interesse pela programação está só aumentando 🧑‍🚀
 
