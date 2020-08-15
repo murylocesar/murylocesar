@@ -1,11 +1,12 @@
 ### Hi there 👋, bem vindo ao meu perfil! 
 
 Bora lá começar...
-
+<!--
 Em 2016 minha carreira profissional na área de TI começou, junto com um colega, desenvolvi meu primeiro sistema chamado Weels_Sys para conclusão do curso técnico em informatica ( sistema de controle vendas ), no projeto utilizando java com banco de dados firebird.
 
 Desde então meu interesse pela programação está só aumentando 🧑‍🚀
 
+-->
 Atualmente, trabalho como Analista de Sistemas Pleno na empresa Everis em que sou muito grato por todas as oportunidades que me proporcionaram até o presente momento, pois com isso tive a oportunidade de trabalhar com as tecnologias PL/SQL (Oracle), Visual Basic e Java.
 
 👨🏻‍💻 Recentemente conheci as tecnologias ReactNative, ReactJs and NodeJs que hoje é meu foco principal.
