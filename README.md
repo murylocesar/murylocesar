@@ -9,7 +9,7 @@ Desde então meu interesse pela programação está só aumentando 🧑‍🚀
 -->
 Atualmente, trabalho como Analista de Sistemas Pleno na empresa Everis em que sou muito grato por todas as oportunidades que me proporcionaram até o presente momento, pois com isso tive a oportunidade de trabalhar com as tecnologias PL/SQL (Oracle), Visual Basic e Java.
 
-👨🏻‍💻 Recentemente conheci as tecnologias ReactNative, ReactJs and NodeJs que hoje é meu foco principal.
+👨🏻‍💻 Estudando as tecnologias ReactNative, ReactJs and NodeJs com o auxílio da Rocketseat 
 
 <!-- :octocat: Follow me! -->
 
