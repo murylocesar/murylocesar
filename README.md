@@ -1,4 +1,4 @@
-### Hi there 👋, bem vindo ao meu perfil! 
+### 👋, bem vindo ao meu perfil! 
 
 <!--
 Em 2016 minha carreira profissional na área de TI começou, junto com um colega, desenvolvi meu primeiro sistema chamado Weels_Sys para conclusão do curso técnico em informatica ( sistema de controle vendas ), no projeto utilizando java com banco de dados firebird.
